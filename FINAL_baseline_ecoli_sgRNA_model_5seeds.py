@@ -40,6 +40,7 @@ drive.mount("/content/drive")
 
 #CELL 2: Model settings, input, output
 
+#data paths, can add more
 #Ecoli data:
 #DATA_PATH = "/content/drive/MyDrive/CRISPR_Project/ecoli_feature_matrix.csv"
 DATA_PATH = "/content/drive/MyDrive/CRISPR_Project/ecoli_feature_matrix_seed_nonadd.csv"
